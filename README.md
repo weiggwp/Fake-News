@@ -1,5 +1,5 @@
 # FakeNewsProject
-
+Teammates: Anthony Chan, Steven Chou
 ## Overview
 1. __Data Collection:__  
   Data is colleted and preprocessed on Kaggle   
