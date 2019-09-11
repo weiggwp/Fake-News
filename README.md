@@ -1,4 +1,5 @@
 # FakeNewsProject
+Build a machine learning classifier that classify news articles as real or fake. 
 Teammates: Anthony Chan, Steven Chou
 ## Overview
 1. __Data Collection:__  
